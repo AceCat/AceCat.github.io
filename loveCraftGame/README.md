@@ -6,7 +6,7 @@
 
 * The game is really a balancing act. The player character has his health, but also has a hidden value called sanity. If the player character's health or sanity ever equals zero the game ends. There is currently no benefit to conflict - it's unavoidable, but whenever a person can avoid fighting it's in their best interest to do so.
 
-##Technologies Used
+## Technologies Used
 * HTML5
 * CSS3
 * JavaScript/JQuery
